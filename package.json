@@ -1,0 +1,28 @@
+{
+  "name": "Solarcampus-Sueddeutschland",
+  "version": "1.0.0",
+  "description": "Wir bringen die Energiewende an den Universitäten voran",
+  "author": "Elias Singer",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@vue/composition-api": "^1.4.3",
+    "bootstrap": "^4.6.0",
+    "bootstrap-vue": "^2.21.2",
+    "core-js": "^3.15.1",
+    "nuxt": "^2.15.7"
+  },
+  "devDependencies": {
+    "@nuxt/types": "^2.15.7",
+    "@nuxt/typescript-build": "^2.1.0",
+    "@nuxtjs/pwa": "^3.3.5"
+  },
+  "engines": {
+    "node": "16.13.1"
+  }
+}
