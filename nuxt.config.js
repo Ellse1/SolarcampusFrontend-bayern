@@ -13,9 +13,9 @@ export default {
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
       { hid: 'description', name: 'description', content: process.env.npm_package_description },
       { name: 'format-detection', content: 'telephone=no' },
-      { hid: 'og:title', property: 'og:title', content: 'Solarcampus Sueddeutschland' },
-      { hid: 'og:image', property: 'og:image', content: 'https://www.solarcampus-sd.de/photovoltaikHeaderZugeschnittenFuerSM3.jpg' },
-      { hid: 'og:url', property: 'og:url', content: 'https://www.solarcampus-sd.de'},
+      { hid: 'og:title', property: 'og:title', content: 'Solarcampus Bayern' },
+      { hid: 'og:image', property: 'og:image', content: 'https://www.solarcampus-bayern.de/photovoltaikHeaderZugeschnittenFuerSM3.jpg' },
+      { hid: 'og:url', property: 'og:url', content: 'https://www.solarcampus-bayern.de'},
       { hid: 'og:description', property: 'og:description', content: 'Wir beschleunigen die Energiewende an Universitäten' }
     ],
     link: [

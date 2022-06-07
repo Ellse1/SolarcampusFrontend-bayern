@@ -1,13 +1,7 @@
 <template>
   <div class="container">
 
-      <div class="mt-5">
-        <div class="">
-          <img class="border" width="100%" src="/TEB-Logo_4c.jpg" />
-          Unterstützt durch <b>Bayerns Wirtschaftsminister Aiwanger</b> <br>
-          Weitere Information zu Team Energiewende Bayern findet ihr <a target="_blanc" href="https://www.stmwi.bayern.de/energie/team-energiewende-bayern/" >hier.</a>
-        </div>
-      </div>
+
 
 
       <div class="mt-5">
@@ -37,7 +31,7 @@
       </div>
 
 
-      <!--
+
       <div class="mt-5">
         <h3>Informationen zu</h3>
 
@@ -70,6 +64,7 @@
               </b-card-body>
             </b-card>
           </div>
+          <!--
           <div class="col-md-4 mb-5">
             <b-card>
               <b-card-body>
@@ -83,17 +78,17 @@
                 </b-card-text>
               </b-card-body>
             </b-card>
-          </div>
+          </div>-->
         </div>
 
 
 
       </div>
-      -->
 
 
 
-      <div class="mt-5">
+
+      <div class="">
         <h3>
           Einige unseres Teams
         </h3>
@@ -160,7 +155,7 @@
                 </div>
 
                 <b-card-text>
-                  Referat für Umwelt<br> Technische Universität München
+                  Referat für Umwelt<br> Technische Universität München<br>Projektleitung
                 </b-card-text>
               </b-card>
           </div>
@@ -344,6 +339,14 @@
         </div>
       </div>
 
+
+      <div class="mt-3">
+        <div class="">
+          <img class="border" width="100%" src="/TEB-Logo_4c.jpg" />
+          Unterstützt durch <b>Bayerns Wirtschaftsminister Aiwanger</b> <br>
+          Weitere Information zu Team Energiewende Bayern findet ihr <a target="_blanc" href="https://www.stmwi.bayern.de/energie/team-energiewende-bayern/" >hier.</a>
+        </div>
+      </div>
 
 
   </div>

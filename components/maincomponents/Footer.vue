@@ -22,7 +22,7 @@
             <div class="col-md-3 col-lg-4 col-xl-3 mx-auto mb-4">
               <!-- Content -->
               <h6 class="text-uppercase fw-bold mb-4">
-                <i class="fas fa-gem me-3"></i>SOLARCAMPUS SÜDDEUTSCHLAND
+                <i class="fas fa-gem me-3"></i>SOLARCAMPUS BAYERN
               </h6>
               <p>
                 Gemeinsam mit Hochschulpräsidium, Verwaltung, Politik und Privatwirtschaft bringen wir Fotovoltaik auf die Dächer von Universitäten.
@@ -31,25 +31,24 @@
             <!-- Grid column -->
 
             <!-- Grid column -->
-            <!--
             <div class="col-md-2 col-lg-2 col-xl-2 mx-auto mb-4">
-              <!-- Links --
+              <!-- Links -->
               <h6 class="text-uppercase fw-bold mb-4">
                 Informationen zu
               </h6>
-              <!--
               <p>
                 <nuxt-link to="/information/bauministerium" class="text-reset" >Bauministerium</nuxt-link>
               </p>
               <p>
                 <nuxt-link to="/information/wissenschaftsministerium" class="text-reset" >Ministerium für Wissenschaft und Kunst</nuxt-link>
               </p>
+              <!--
               <p>
                 <nuxt-link to="/information/immobilien-freistaat-bayern" class="text-reset" >Immobilien Freistaat Bayern</nuxt-link>
               </p>
-              --
+              -->
             </div>
-            <!- Grid column -->
+            <!-- Grid column -->
 
             <!-- Grid column -->
             <div class="col-md-3 col-lg-2 col-xl-2 mx-auto mb-4">
@@ -97,7 +96,7 @@
       <!--<div class="text-center p-4" style="background-color: rgba(0, 0, 0, 0.05);">-->
       <div class="text-center text-dark p-4" style="background-color: #119be6">
         © 2022 Copyright:
-        <nuxt-link to="/" class="text-reset fw-bold" >Solarcampus-SD.de</nuxt-link>
+        <nuxt-link to="/" class="text-reset fw-bold" >Solarcampus-bayern.de</nuxt-link>
       </div>
       <!-- Copyright -->
     </footer>

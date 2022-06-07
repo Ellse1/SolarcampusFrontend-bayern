@@ -8,7 +8,7 @@
                 <maincomponentsNavigationbarnavigation />
             </div>-->
 
-        <h1 id="text_solarcampusSueddeutschland"><b>Solarcampus Süddeutschland</b></h1>
+        <h1 id="text_solarcampusSueddeutschland"><b>Solarcampus Bayern</b></h1>
         <h3 class="text-white">Wir beschleunigen die Energiewende an Universitäten</h3>
         </div>
 

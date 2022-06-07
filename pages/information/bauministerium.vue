@@ -5,7 +5,7 @@
       <p>
         Das Bauministerium hat in große Verantwortung für staatliche Gebäude wie Finanzämter, Behörden und auch Hochschulen und Universitäten.
         Das Bauministerium will den Einsatz von Fotovoltaik auf staatlichen Gebäuden in den nächsten Jahren drastisch erhöhen.
-        Dazu wurden 11.000  Gebäude auf ihre Eignung für Fotovoltaik überprüft. Von diesen 11.000 bleiben wohl nur ca. 1.000 geeignete Gebäude übrig,
+        Dazu wurden ca. 11.000  Gebäude auf ihre Eignung für Fotovoltaik überprüft. Von diesen 11.000 bleiben wohl nur ca. 1.000 geeignete Gebäude übrig,
         von denen ca. 400 schon mit Fotovoltaik belegt ist. Weshalb 10.000 Gebäude nicht geeignet sind, wird nicht transparent veröffentlicht.
         So kann nicht überprüft werden, ob ein “nicht geeignetes” Gebäude wegen Denkmalschutzgründen nicht in Betracht kommt oder ob es andere triftige,
         bauliche Gründe gibt. Die geeigneten, noch nicht belegten Dächer sollen im Laufe der nächsten Jahre belegt werden. Der größte Teil davon wird
