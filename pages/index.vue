@@ -11,12 +11,12 @@
 
         <p class="">
           Wir sind Studierende mehrerer Universitäten aus Süddeutschland, die sich für Erneuerbare Energien einsetzen und so dem Klimawandel
-          konkret entgegenwirken. Für den dringend benötigten Ausstieg aus fossilen Energieträgern sind erneuerbare Energien unabdingbar. Fotovoltaik
+          konkret entgegenwirken. Für den dringend benötigten Ausstieg aus fossilen Energieträgern sind erneuerbare Energien unabdingbar. Photovoltaik
           ist hier eine effiziente, einsatzbereite Technologie, deren Nutzung wir voran bringen wollen.
-          Deshalb setzen wir uns ganz konkret dafür ein, dass unsere Universitäten überall wo es wirtschaftlich sinnvoll ist Fotovoltaikanlagen installieren lassen.
+          Deshalb setzen wir uns ganz konkret dafür ein, dass unsere Universitäten überall wo es wirtschaftlich sinnvoll ist Photovoltaikanlagen installieren lassen.
         </p>
         <p>
-          Gemeinsam mit Hochschulpräsidium, Verwaltung, Politik und Privatwirtschaft bringen wir Fotovoltaik auf die Dächer von Universitäten.
+          Gemeinsam mit Hochschulpräsidium, Verwaltung, Politik und Privatwirtschaft bringen wir Photovoltaik auf die Dächer von Universitäten.
         </p>
 
         <!--

@@ -5,7 +5,7 @@
       <p>
         Immobilien Freistaat Bayern untersteht dem Bauministerium. Es ist für das kaufmännische Facilitymanagement
         von staatlichen Gebäuden zuständig, beispielsweise die Organisation von Ausschreibungen und die Gestaltung der entsprechenden Verträge.
-        Es wurde vom Bauministerium beauftragt, entsprechende Dachflächen für Fotovoltaik auszuschreiben. Vor etwa 3 Jahren wurden entsprechende
+        Es wurde vom Bauministerium beauftragt, entsprechende Dachflächen für Photovoltaik auszuschreiben. Vor etwa 3 Jahren wurden entsprechende
         Verträge erstellt.
         Die Eignung der erstellten Verträge wurde bei Unternehmen in der Energiebranche (u.A. Energiegenossenschaften) abgefragt.
         Obwohl viele Firmen und Energiegenossenschaften zurückmeldeten, dass diese Verträge für Investoren nicht tragbar
@@ -20,7 +20,7 @@
         Diese Fläche kann dann, gegebenenfalls mit Ausschreibung, verpachtet werden.
       </p>
       <p>
-        Dass hier über einen längeren Zeitraum hinweg Verträge angeboten wurden, die Fotovoltaik nicht ermöglichten, ist äußerst
+        Dass hier über einen längeren Zeitraum hinweg Verträge angeboten wurden, die Photovoltaik nicht ermöglichten, ist äußerst
         bedauernswert. Dadurch ist wertvolle Zeit für die Beschleunigung der Energiewende verloren gegangen.
         Wir hoffen sehr, dass die neuen Verträge mit Energiegenossenschaften und
         anderen Partnern abgesprochen wurden und unbürokratisch die Verpachtung von Dachflächen für die Energiewende ermöglichen.

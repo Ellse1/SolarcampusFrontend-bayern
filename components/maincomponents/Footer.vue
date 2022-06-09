@@ -25,7 +25,7 @@
                 <i class="fas fa-gem me-3"></i>SOLARCAMPUS BAYERN
               </h6>
               <p>
-                Gemeinsam mit Hochschulpräsidium, Verwaltung, Politik und Privatwirtschaft bringen wir Fotovoltaik auf die Dächer von Universitäten.
+                Gemeinsam mit Hochschulpräsidium, Verwaltung, Politik und Privatwirtschaft bringen wir Photovoltaik auf die Dächer von Universitäten.
               </p>
             </div>
             <!-- Grid column -->
