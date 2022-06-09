@@ -1,4 +1,4 @@
-# solarcampus-sd
+# solarcampus-bayern
 
 ## Build Setup
 
