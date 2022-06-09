@@ -24,6 +24,9 @@
         für die Energiewende verloren. Ob sich dies geändert hat und mit den 1.000 von 11.000 Dächern wirklich das Potenzial ausgeschöpft wird, kann
         ohne transparente Veröffentlichung bedauerlicherweise nicht geprüft werden.
       </p>
+      <p>
+        Genaueres dazu steht auch in <a href="https://www.sueddeutsche.de/bayern/photovoltaik-bauminister-christian-bernreiter-1.5562060" target="_blanc">diesem Artikel der SZ</a>.
+      </p>
     </div>
   </div>
 </template>
