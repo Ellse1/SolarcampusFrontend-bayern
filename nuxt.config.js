@@ -22,6 +22,13 @@ export default {
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.png' },
       { rel: 'apple-touch-icon', href: '/apple-touch-icon.png'}
 
+    ],
+    script: [
+      {
+        src: "https://solarcampus-bayern-analytics.94.16.114.149.sslip.io/tracker.js",
+        'data-ackee-server': "https://solarcampus-bayern-analytics.94.16.114.149.sslip.io",
+        'data-ackee-domain-id': "862f769e-1bde-4d68-b4fa-d17ce2900b62"
+      }
     ]
   },
 
