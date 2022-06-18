@@ -1,9 +1,6 @@
 <template>
   <div class="container">
 
-
-
-
       <div class="mt-5">
         <h3>
           Erneuerbare Energie für unsere Zukunft
@@ -33,7 +30,7 @@
 
 
       <div class="mt-5">
-        <h3>Informationen zu</h3>
+        <h3>Informationen zu Partnern</h3>
 
         <div class="row">
           <div class="col-md-4 mb-5">
@@ -64,21 +61,21 @@
               </b-card-body>
             </b-card>
           </div>
-          <!--
           <div class="col-md-4 mb-5">
             <b-card>
               <b-card-body>
                 <b-card-title>
-                  <nuxt-link to="information/immobilien-freistaat-bayern">
-                    Immobilien Freistaat Bayern
+                  <nuxt-link to="information/tum">
+                    TU München
                   </nuxt-link>
                 </b-card-title>
                 <b-card-text>
-                  Immobilien Freistaat Bayern  ist für das kaufmännische Facilitymanagement von staatlichen Gebäuden zuständig.
+                  In konstruktiven Gesprächen konnte die TUM uns darlegen, wie das Gebäudemanagement bis zu unserem
+                  nächsten Treffen vorgehen wird um große Photovoltaikanlagen so bald wie möglich zu ermöglichen.
                 </b-card-text>
               </b-card-body>
             </b-card>
-          </div>-->
+          </div>
         </div>
 
 
