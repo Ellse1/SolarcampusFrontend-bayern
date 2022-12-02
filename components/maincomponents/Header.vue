@@ -8,7 +8,7 @@
                 <maincomponentsNavigationbarnavigation />
             </div>-->
 
-        <h1 id="text_solarcampusSueddeutschland"><b>Solarcampus Bayern</b></h1>
+        <h1 class=" solarcampus-heading" style="font-family: Comfortaa-Bold;" id="text_solarcampusSueddeutschland"><b>Solarcampus Bayern</b></h1>
         <h3 class="text-white">Wir beschleunigen die Energiewende an Universitäten</h3>
         </div>
 
@@ -36,6 +36,10 @@
     color: #FAFF00;
 }
 
+.solarcampus-heading{
+  font-size: 60px;
+}
+
 @media only screen and (max-width: 990px) {
     #div_headerImage{
         background-size: auto 100%;
@@ -47,7 +51,9 @@
     #navigation_large{
         display: none;
     }
-
+  .solarcampus-heading{
+    font-size: 40px;
+  }
 }
 @media only screen and (min-width: 991px) {
     #navigation_mobile{

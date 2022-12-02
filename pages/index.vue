@@ -1,20 +1,24 @@
 <template>
   <div class="container">
 
-      <div class="mt-5">
-        <h3>
+      <div class="mt-5 text-center">
+        <h3 class="">
           Erneuerbare Energie für unsere Zukunft
         </h3>
 
-        <p class="">
-          Wir sind Studierende mehrerer Universitäten aus Süddeutschland, die sich für Erneuerbare Energien einsetzen und so dem Klimawandel
-          konkret entgegenwirken. Für den dringend benötigten Ausstieg aus fossilen Energieträgern sind erneuerbare Energien unabdingbar. Photovoltaik
-          ist hier eine effiziente, einsatzbereite Technologie, deren Nutzung wir voranbringen wollen.
-          Deshalb setzen wir uns ganz konkret dafür ein, dass unsere Universitäten überall, wo es wirtschaftlich sinnvoll ist, Photovoltaikanlagen installieren lassen.
+        <p class="mt-4">
+          Wir sind Studierende mehrerer Universitäten aus Süddeutschland, die sich für erneuerbare Energien einsetzen
+          und so dem Klimawandel konkret entgegenwirken. Für den dringend benötigten Ausstieg aus fossilen Energieträgern
+          sind erneuerbare Energien unabdingbar.
         </p>
         <p>
-          Gemeinsam mit Hochschulpräsidium, Verwaltung, Politik und Privatwirtschaft bringen wir Photovoltaik auf die Dächer von Universitäten.
+          Gemeinsam mit Hochschulpräsidium, Verwaltung, Politik und Privatwirtschaft gestalten wir Universitäten klimafreundlich.
+          <span class="ml-3">
+            <img class="image_to_rotate" src="~/static/favicon2.png" alt="Not found" />
+          </span>
         </p>
+
+
 
         <!--
         <p>Alle Information bezüglich des Fortschritts an den jeweiligen Universitäten und allgeineme Informationen, welche bei
@@ -23,22 +27,47 @@
         </p>
         -->
 
-
-
       </div>
 
 
 
       <div class="mt-5">
-        <h3>Informationen zu Partnern</h3>
+        <h3 class="mx-auto text-center">Informationen zu Partnern</h3>
 
-        <div class="row">
-          <div class="col-md-4 mb-5">
-            <b-card>
+        <div class="row mt-4">
+          <div class="col-md-4 mb-2">
+            <b-card class="partner-card" id="id_partner_card_1">
               <b-card-body>
                 <b-card-title>
-                  <nuxt-link to="information/bauministerium">
+                  <nuxt-link to="/tum" id="id_link_partner1">
+                    TU München
+                    <span class="ml-3" id="id_span_partner_hover_image_1">
+                      <img class="" id="id_image_partner1" src="~/static/favicon2.png" alt="Not found" width="22px" />
+                    </span>
+                  </nuxt-link>
+                </b-card-title>
+                <b-card-text>
+                  Es ist uns eine Ehre, mit dem Gebäudemanagement der TUM konstruktive Gespräche führen zu dürfen.
+                  Mit gut durchdachten Konzepten und hilfreichen Kontakten versuchen wir
+                  relevante Klimaschutzmaßnahmen durchzusetzen.
+                </b-card-text>
+                <nuxt-link to="/tum">
+                  <b-button pill variant="outline" id="id_button_support_TUM" class="mt-3">
+                    <b>Wie wir unterstützen</b>
+                  </b-button>
+                </nuxt-link>
+              </b-card-body>
+            </b-card>
+          </div>
+          <div class="col-md-4 mb-2">
+            <b-card class="partner-card" id="id_partner_card_2">
+              <b-card-body>
+                <b-card-title>
+                  <nuxt-link to="information/bauministerium" id="id_link_partner2">
                     Bauministerium
+                    <span class="ml-3" id="id_span_partner_hover_image_2">
+                      <img class="" id="id_image_partner2" src="~/static/favicon2.png" alt="Not found" width="22px" />
+                    </span>
                   </nuxt-link>
                 </b-card-title>
                 <b-card-text>
@@ -47,12 +76,15 @@
               </b-card-body>
             </b-card>
           </div>
-          <div class="col-md-4 mb-5">
-            <b-card>
+          <div class="col-md-4 mb-2">
+            <b-card class="partner-card" id="id_partner_card_3">
               <b-card-body>
                 <b-card-title>
-                  <nuxt-link to="information/wissenschaftsministerium">
-                    Ministerium für Wissenschaft und Kunst
+                  <nuxt-link to="information/wissenschaftsministerium" id="id_link_partner3">
+                    Ministerium für Wissenschaft und<br/>Kunst
+                    <span class="ml-3" id="id_span_partner_hover_image_3">
+                      <img class="" id="id_image_partner3" src="~/static/favicon2.png" alt="Not found" width="22px" />
+                    </span>
                   </nuxt-link>
                 </b-card-title>
                 <b-card-text>
@@ -61,38 +93,22 @@
               </b-card-body>
             </b-card>
           </div>
-          <div class="col-md-4 mb-5">
-            <b-card>
-              <b-card-body>
-                <b-card-title>
-                  <nuxt-link to="information/tum">
-                    TU München
-                  </nuxt-link>
-                </b-card-title>
-                <b-card-text>
-                  In konstruktiven Gesprächen konnte die TUM uns darlegen, wie das Gebäudemanagement bis zu unserem
-                  nächsten Treffen vorgehen wird um große Photovoltaikanlagen so bald wie möglich zu ermöglichen.
-                </b-card-text>
-              </b-card-body>
-            </b-card>
-          </div>
         </div>
-
-
-
       </div>
 
 
 
 
-      <div class="">
-        <h3>
+
+
+      <div class="mt-5">
+        <h3 class="text-center mx-auto">
           Einige unseres Teams
         </h3>
 
 
-        <div class="row">
-          <div class="col-sm-6 col-md-4 col-lg-3 text-center mb-5">
+        <div class="row mt-4">
+          <div class="col-sm-6 col-md-4 col-lg-3 text-center mb-2">
               <b-card
                 title="Sina Schuhmacher"
                 img-src="/person_SinaSchuhmacher.jpg"
@@ -113,7 +129,7 @@
                 </b-card-text>
               </b-card>
           </div>
-          <div class="col-sm-6 col-md-4 col-lg-3 text-center mb-5">
+          <div class="col-sm-6 col-md-4 col-lg-3 text-center mb-2">
               <b-card
                 title="Jakob Bergsteiner"
                 img-src="/person_JakobBergsteiner.jpg"
@@ -134,7 +150,7 @@
                 </b-card-text>
               </b-card>
           </div>
-          <div class="col-sm-6 col-md-4 col-lg-3 text-center mb-5">
+          <div class="col-sm-6 col-md-4 col-lg-3 text-center mb-2">
               <b-card
                 title="Elias Singer"
                 img-src="person_EliasSinger.jpg"
@@ -156,7 +172,7 @@
                 </b-card-text>
               </b-card>
           </div>
-          <div class="col-sm-6 col-md-4 col-lg-3 text-center mb-5">
+          <div class="col-sm-6 col-md-4 col-lg-3 text-center mb-2">
               <b-card
                 title="Lena Auer"
                 img-src="person_LenaAuer.jpg"
@@ -177,7 +193,7 @@
                 </b-card-text>
               </b-card>
           </div>
-          <div class="col-sm-6 col-md-4 col-lg-3 text-center mb-5">
+          <div class="col-sm-6 col-md-4 col-lg-3 text-center mb-2">
               <b-card
                 title="Nina Nhi Nguyen"
                 img-src="person_NinaNhi.jpg"
@@ -200,7 +216,7 @@
                 </b-card-text>
               </b-card>
           </div>
-          <div class="col-sm-6 col-md-4 col-lg-3 text-center mb-5">
+          <div class="col-sm-6 col-md-4 col-lg-3 text-center mb-2">
               <b-card
                 title="Patrizia Pfab"
                 img-src="person_PatriziaPfab.jpeg"
@@ -224,7 +240,7 @@
               </b-card>
           </div>
 
-          <div class="col-sm-6 col-md-4 col-lg-3 text-center mb-5">
+          <div class="col-sm-6 col-md-4 col-lg-3 text-center mb-2">
               <b-card
                 title="Clemens Zengler"
                 img-src="person_ClemensZengler.jpg"
@@ -246,7 +262,7 @@
                 </b-card-text>
               </b-card>
           </div>
-          <div class="col-sm-6 col-md-4 col-lg-3 text-center mb-5">
+          <div class="col-sm-6 col-md-4 col-lg-3 text-center mb-2">
               <b-card
                 title="Elias Sailer"
                 img-src="/person_EliasSailer.png"
@@ -269,7 +285,7 @@
               </b-card>
 
           </div>
-          <div class="col-sm-6 col-md-4 col-lg-3 text-center mb-5">
+          <div class="col-sm-6 col-md-4 col-lg-3 text-center mb-2">
               <b-card
                 title="Lisa Thuro"
                 img-src="personPlaceholder.jpg"
@@ -290,7 +306,7 @@
                 </b-card-text>
               </b-card>
           </div>
-          <div class="col-sm-6 col-md-4 col-lg-3 text-center mb-5">
+          <div class="col-sm-6 col-md-4 col-lg-3 text-center mb-2">
               <b-card
                 title="Manuel Lerschmacher"
                 img-src="personPlaceholder.jpg"
@@ -311,7 +327,7 @@
                 </b-card-text>
               </b-card>
           </div>
-          <div class="col-sm-6 col-md-4 col-lg-3 text-center mb-5">
+          <div class="col-sm-6 col-md-4 col-lg-3 text-center mb-2">
               <b-card
                 title="Judith Schröder"
                 img-src="personPlaceholder.jpg"
@@ -390,6 +406,65 @@ export default Vue.extend({})
   color: white;
   font-size: 16px;
   padding: 16px 10px;
+}
+
+.partner-card:hover{
+  border-color: #119be6;
+}
+#id_span_partner_hover_image_1{
+  display:none;
+}
+#id_partner_card_1:hover #id_span_partner_hover_image_1{
+  display: inherit;
+}
+#id_span_partner_hover_image_2{
+  display:none;
+}
+#id_partner_card_2:hover #id_span_partner_hover_image_2{
+  display: inherit;
+}
+#id_span_partner_hover_image_3{
+  display:none;
+}
+#id_partner_card_3:hover #id_span_partner_hover_image_3{
+  display: inherit;
+}
+#id_link_partner3:hover #id_image_partner3{
+  animation: rotation 10s infinite linear;
+}
+#id_link_partner2:hover #id_image_partner2{
+  animation: rotation 10s infinite linear;
+}
+#id_link_partner1:hover #id_image_partner1{
+  animation: rotation 10s infinite linear;
+}
+
+
+#id_button_support_TUM{
+  border-color: #119be6;
+  max-width: 100%;
+  width: 100%;
+  background-color: #119be6;
+}
+#id_button_support_TUM:hover{
+  background-color: #119be6;
+}
+.image_to_rotate{
+    animation: rotation 20s infinite linear;
+}
+
+h3{
+  font-family: Comfortaa;
+  font-weight: bold;
+}
+
+@keyframes rotation {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(359deg);
+  }
 }
 
 </style>

@@ -1,0 +1,9 @@
+@font-face {
+    font-family: "Comfortaa";
+    src: local("Comfortaa"),
+    url(~assets/Comfortaa/Comfortaa-VariableFont_wght.ttf) format("truetype");
+}
+
+div{
+  font-family: Comfortaa;
+}
