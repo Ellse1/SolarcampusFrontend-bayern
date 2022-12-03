@@ -333,7 +333,7 @@
           <div class="col-sm-6 col-md-4 col-lg-3 text-center mb-2">
               <b-card
                 title="Manuel Lerschmacher"
-                img-src="personPlaceholder.jpg"
+                img-src="person_ManuelLerschmacher.jpg"
                 img-alt="Image"
                 img-top
                 tag="article"
