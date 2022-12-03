@@ -131,22 +131,23 @@
           </div>
           <div class="col-sm-6 col-md-4 col-lg-3 text-center mb-2">
               <b-card
-                title="Jakob Bergsteiner"
-                img-src="/person_JakobBergsteiner.jpg"
+                title="Clemens Zengler"
+                img-src="person_ClemensZengler.jpg"
                 img-alt="Image"
                 img-top
                 tag="article"
                 style="max-width: 15rem;"
-                class="mx-auto  image-container"
+                class=" mx-auto image-container"
               >
+
                 <div class="middle text-center">
                   <div class="image-text mx-auto">
-                    elias.singer@online.de
+                    clemens.zengler@fs.tum.de
                   </div>
                 </div>
 
                 <b-card-text>
-                  Technische Universität <br>München
+                  Referat für Umwelt<br>Technische Universität<br> München
                 </b-card-text>
               </b-card>
           </div>
@@ -174,6 +175,28 @@
           </div>
           <div class="col-sm-6 col-md-4 col-lg-3 text-center mb-2">
               <b-card
+                title="Laura Enzberger"
+                img-src="person_LauraEnzberger.png"
+                img-alt="Image"
+                img-top
+                tag="article"
+                style="max-width: 15rem;"
+                class=" mx-auto image-container"
+              >
+                <div class="middle text-center">
+                  <div class="image-text mx-auto">
+                    laura.enzberger@student.hswt.de
+                  </div>
+                </div>
+
+                <b-card-text>
+                  Hochschule Weihenstephan-Triesdorf
+                </b-card-text>
+              </b-card>
+          </div>
+          <!--
+          <div class="col-sm-6 col-md-4 col-lg-3 text-center mb-2">
+              <b-card
                 title="Lena Auer"
                 img-src="person_LenaAuer.jpg"
                 img-alt="Image"
@@ -192,7 +215,8 @@
                   Leitung des Referat für Nachhaltige Entwicklung <br>Hochschule München
                 </b-card-text>
               </b-card>
-          </div>
+          </div>-->
+          <!--
           <div class="col-sm-6 col-md-4 col-lg-3 text-center mb-2">
               <b-card
                 title="Nina Nhi Nguyen"
@@ -215,7 +239,8 @@
                   Hochschule München
                 </b-card-text>
               </b-card>
-          </div>
+          </div>-->
+          <!--
           <div class="col-sm-6 col-md-4 col-lg-3 text-center mb-2">
               <b-card
                 title="Patrizia Pfab"
@@ -238,30 +263,7 @@
                   Hochschule München
                 </b-card-text>
               </b-card>
-          </div>
-
-          <div class="col-sm-6 col-md-4 col-lg-3 text-center mb-2">
-              <b-card
-                title="Clemens Zengler"
-                img-src="person_ClemensZengler.jpg"
-                img-alt="Image"
-                img-top
-                tag="article"
-                style="max-width: 15rem;"
-                class=" mx-auto image-container"
-              >
-
-                <div class="middle text-center">
-                  <div class="image-text mx-auto">
-                    elias.singer@online.de
-                  </div>
-                </div>
-
-                <b-card-text>
-                  Referat für Umwelt<br>Technische Universität<br> München
-                </b-card-text>
-              </b-card>
-          </div>
+          </div>-->
           <div class="col-sm-6 col-md-4 col-lg-3 text-center mb-2">
               <b-card
                 title="Elias Sailer"
@@ -285,6 +287,7 @@
               </b-card>
 
           </div>
+          <!--
           <div class="col-sm-6 col-md-4 col-lg-3 text-center mb-2">
               <b-card
                 title="Lisa Thuro"
@@ -305,6 +308,27 @@
                   Referat für Umwelt<br> Technische Universität München
                 </b-card-text>
               </b-card>
+          </div>-->
+          <div class="col-sm-6 col-md-4 col-lg-3 text-center mb-2">
+              <b-card
+                title="Jakob Bergsteiner"
+                img-src="/person_JakobBergsteiner.jpg"
+                img-alt="Image"
+                img-top
+                tag="article"
+                style="max-width: 15rem;"
+                class="mx-auto  image-container"
+              >
+                <div class="middle text-center">
+                  <div class="image-text mx-auto">
+                    elias.singer@online.de
+                  </div>
+                </div>
+
+                <b-card-text>
+                  Technische Universität <br>München
+                </b-card-text>
+              </b-card>
           </div>
           <div class="col-sm-6 col-md-4 col-lg-3 text-center mb-2">
               <b-card
@@ -318,7 +342,7 @@
               >
                 <div class="middle text-center">
                   <div class="image-text mx-auto">
-                    elias.singer@online.de
+                    manuel.lerschmacher@fs.tum.de
                   </div>
                 </div>
 
@@ -327,6 +351,7 @@
                 </b-card-text>
               </b-card>
           </div>
+          <!--
           <div class="col-sm-6 col-md-4 col-lg-3 text-center mb-2">
               <b-card
                 title="Judith Schröder"
@@ -347,7 +372,7 @@
                   Technische Universität München
                 </b-card-text>
               </b-card>
-          </div>
+          </div>-->
 
         </div>
       </div>
