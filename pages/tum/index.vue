@@ -72,7 +72,20 @@
             </b-card-body>
           </b-card>
         </div>
-
+        <div class="col-sm-6 col-md-4 col-lg-3">
+          <b-card class="mb-2 sektor-card">
+            <b-card-body>
+              <b-card-sub-title>
+                Klimapositive Gebäude (nach DGNB 2022), Graue Emissionen mitdenken
+              </b-card-sub-title>
+              <nuxt-link to="/tum/bauen">
+                <b-button pill variant="outline" class="mt-3 sektor-button" size="lg">
+                  <b>Bauen</b>
+                </b-button>
+              </nuxt-link>
+            </b-card-body>
+          </b-card>
+        </div>
 
       </div>
     </div>
@@ -80,20 +93,6 @@
     <div class="mt-5 text-center">
       <h3>Sektoren in zukünftiger Bearbeitung</h3>
       <div class="row mt-4">
-        <div class="col-sm-6 col-md-4 col-lg-3">
-          <b-card class="mb-2 sektor-card">
-            <b-card-body>
-              <b-card-sub-title>
-                Klimapositive Gebäude (nach DGNB 2022), Graue Emissionen mitdenken
-              </b-card-sub-title>
-              <!--<nuxt-link to="/tum/bauen">-->
-                <b-button pill variant="outline" class="mt-3 sektor-button" size="lg">
-                  <b>Bauen</b>
-                </b-button>
-              <!--</nuxt-link>-->
-            </b-card-body>
-          </b-card>
-        </div>
         <div class="col-sm-6 col-md-4 col-lg-3">
           <b-card class="mb-2 sektor-card">
             <b-card-body>
