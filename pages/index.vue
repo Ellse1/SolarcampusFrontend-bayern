@@ -98,7 +98,53 @@
 
 
 
+      <!--
+      <div class="mt-5" style="">
+        <h3 class="mx-auto text-center">Neues von uns</h3>
 
+        <div class="row mt-4">
+          <div class="col">
+            <div class="card">
+              <div class="card-body">
+                <b-card-title>Wir in der Süddeutschen Zeitung</b-card-title>
+                <p class="card-text">
+                  Am 22.11.22 berichtet die Süddeutsche Zeitung über uns. Sowohl unser Engagement
+                  an unserer Universität, der TU München, als auch die Konversation mit Herrn Staatsminister
+                  Bernreiter wird dargelegt.
+                </p>
+                <a target="_blanc" href="https://www.sueddeutsche.de/muenchen/muenchen-tum-universitaet-photovoltaik-solardach-solarcampus-bayern-1.5701042" class="">SZ Artikel lesen</a>
+              </div>
+            </div>
+          </div>
+          <div class="col">
+            <div class="card">
+              <div class="card-body">
+                <b-card-title>Staatsminister Bernreiters Antwort auf unsere Anfrage</b-card-title>
+                <p class="card-text">
+                  Mit großem Respekt nehmen wir die Antwort von Herrn Bernreiter zur Kenntniss.
+                  Inhaltlich fordern wir mehr Transparenz und Geschwindigkeit beim PV-Ausbau auf staatlichen Gebäuden.
+                  Lesen Sie hier unsere Anfrage und die Anwort von Herrn Bauminister Bernreiter.
+                </p>
+                <nuxt-link to="/information/konversation-bernreiter">Konversation lesen</nuxt-link>
+              </div>
+            </div>
+          </div>
+          <div class="col">
+            <div class="card">
+              <div class="card-body">
+                <b-card-title>Wir in der SZ junge Leute</b-card-title>
+                <p class="card-text">
+                  Am 13.06.2022 berichtet die SZ junge Leute Redaktion über unser Engagement für Bayern an der TU München.
+                  Wir setzen uns seit 2021 an der TUM für einen schnelleren Ausbau der erneuerbaren Energie ein.
+                  Den Artikel finden Sie hier.
+                </p>
+                <a target="_blanc" href="https://www.sueddeutsche.de/muenchen/muenchen-neuland-made4all-solarcampus-sueddeutschland-1.5602257" class="">SZ junge Leute Artikel lesen</a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      -->
 
 
       <div class="mt-5">
