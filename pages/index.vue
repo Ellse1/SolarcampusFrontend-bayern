@@ -177,8 +177,8 @@
           </div>
           <div class="col-sm-6 col-md-4 col-lg-3 text-center mb-2">
               <b-card
-                title="Clemens Zengler"
-                img-src="person_ClemensZengler.jpg"
+                title="Lennart Trentmann"
+                img-src="person_LennartTrentmann.png"
                 img-alt="Image"
                 img-top
                 tag="article"
@@ -188,7 +188,7 @@
 
                 <div class="middle text-center">
                   <div class="image-text mx-auto">
-                    clemens.zengler@fs.tum.de
+                    lennart.trentmann@tum.de
                   </div>
                 </div>
 
@@ -378,6 +378,27 @@
           </div>
           <div class="col-sm-6 col-md-4 col-lg-3 text-center mb-2">
               <b-card
+                title="Paul Bachmann"
+                img-src="person_PaulBachmann.jpg"
+                img-alt="Image"
+                img-top
+                tag="article"
+                style="max-width: 15rem;"
+                class=" mx-auto image-container"
+              >
+                <div class="middle text-center">
+                  <div class="image-text mx-auto">
+                    bachmann@fsmb-tum.de
+                  </div>
+                </div>
+
+                <b-card-text>
+                  Fachschaft Maschinenbau<br> Technische Universität München
+                </b-card-text>
+              </b-card>
+          </div>
+          <div class="col-sm-6 col-md-4 col-lg-3 text-center mb-2">
+              <b-card
                 title="Manuel Lerschmacher"
                 img-src="person_ManuelLerschmacher.jpg"
                 img-alt="Image"
@@ -397,6 +418,7 @@
                 </b-card-text>
               </b-card>
           </div>
+
           <!--
           <div class="col-sm-6 col-md-4 col-lg-3 text-center mb-2">
               <b-card
