@@ -397,6 +397,7 @@
                 </b-card-text>
               </b-card>
           </div>
+
           <div class="col-sm-6 col-md-4 col-lg-3 text-center mb-2">
               <b-card
                 title="Manuel Lerschmacher"
@@ -415,6 +416,48 @@
 
                 <b-card-text>
                   Referat für Umwelt<br> Technische Universität München
+                </b-card-text>
+              </b-card>
+          </div>
+          <div class="col-sm-6 col-md-4 col-lg-3 text-center mb-2">
+              <b-card
+                title="Davis Stöwer"
+                img-src="person_DavisStoewer.jpg"
+                img-alt="Image"
+                img-top
+                tag="article"
+                style="max-width: 15rem;"
+                class=" mx-auto image-container"
+              >
+                <div class="middle text-center">
+                  <div class="image-text mx-auto">
+                    stoewer@hm.edu
+                  </div>
+                </div>
+
+                <b-card-text>
+                  Referat für nachhaltige Entwicklung (RNE)<br> Hochschule München
+                </b-card-text>
+              </b-card>
+          </div>
+          <div class="col-sm-6 col-md-4 col-lg-3 text-center mb-2">
+              <b-card
+                title="Wladimir Aufmann"
+                img-src="person_WladimirAufmann.jpg"
+                img-alt="Image"
+                img-top
+                tag="article"
+                style="max-width: 15rem;"
+                class=" mx-auto image-container"
+              >
+                <div class="middle text-center">
+                  <div class="image-text mx-auto">
+                    wladimir.aufmann@hm.edu
+                  </div>
+                </div>
+
+                <b-card-text>
+                  Referat für nachhaltige Entwicklung (RNE)<br> Hochschule München
                 </b-card-text>
               </b-card>
           </div>
