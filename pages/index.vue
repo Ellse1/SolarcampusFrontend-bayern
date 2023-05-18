@@ -531,7 +531,7 @@
               class="mx-auto image-container"
             >
               <b-card-body>
-                <a href="https://www.sueddeutsche.de/muenchen/muenchen-tum-universitaet-photovoltaik-solardach-solarcampus-bayern-1.5701042/" target="_blank">
+                <a href="https://www.sueddeutsche.de/muenchen/muenchen-tum-universitaet-photovoltaik-solardach-solarcampus-bayern-1.5701042" target="_blank">
                   <b-card-title>
                     SZ berichtet
                   </b-card-title>
