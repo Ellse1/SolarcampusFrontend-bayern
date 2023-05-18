@@ -488,6 +488,73 @@
         </div>
       </div>
 
+      <div style="margin-top:100px;" class="text-center">
+        <h3>Nützliche Links und Informationen</h3>
+        <div class="row mt-4">
+
+          <div class="col-md-4 mb-2">
+            <b-card
+              img-src="information_bayernplanEnergie2040.png"
+              img-alt="Image"
+              img-top
+              tag="article"
+              class="mx-auto image-container"
+            >
+              <b-card-body>
+                <a href="https://bayernplan-energie2040.de/" target="_blank">
+                  <b-card-title>
+                    Bayernplan Energie 2040
+                  </b-card-title>
+                </a>
+                <b-card-text>
+                  4 Szenarien, wie Bayern bis 2040 klimaneutral werden kann. <br />
+                  In Auftrag gegeben vom
+                  Verband der <b>Bayerischen Energie und Wasserwirtschaft e.V.</b>,
+                  begleitet durch <b>vbw – Vereinigung der Bayerischen Wirtschaft e.V. & Prognos AG</b>
+                </b-card-text>
+                <b-card-text>
+                                    <p class="mt-4">
+                    <a href="https:///bayernplan-energie.ffe.de/" target="_blank">
+                      www.bayernplan-energie.ffe.de
+                    </a>
+                  </p>
+                </b-card-text>
+              </b-card-body>
+            </b-card>
+          </div>
+          <div class="col-md-4 mb-2">
+            <b-card
+              img-src="information_szBerichtet.png"
+              img-alt="Image"
+              img-top
+              tag="article"
+              class="mx-auto image-container"
+            >
+              <b-card-body>
+                <a href="https://www.sueddeutsche.de/muenchen/muenchen-tum-universitaet-photovoltaik-solardach-solarcampus-bayern-1.5701042/" target="_blank">
+                  <b-card-title>
+                    SZ berichtet
+                  </b-card-title>
+                </a>
+                <b-card-text>
+                  Am 22. November 2022 berichtete die Süddeutsche Zeitung über unsere Aktivitäten.
+                  Dem vorausgegangen war ein öffentlicher Brief an den Bayrischen Bauminister (Herr Christian Bernreiter (CSU))
+                  bezüglich der Nutzung von Photovoltaik auf Dächern öffentlicher Gebäude.
+                </b-card-text>
+                <b-card-text>
+                  <p class="mt-4">
+                    <a href="https://www.sueddeutsche.de/muenchen/muenchen-tum-universitaet-photovoltaik-solardach-solarcampus-bayern-1.5701042" target="_blank">
+                      Artikel lesen
+                    </a>
+                  </p>
+                </b-card-text>
+              </b-card-body>
+            </b-card>
+          </div>
+
+        </div>
+      </div>
+
 
       <div class="mt-3">
         <div class="">

@@ -23,8 +23,9 @@
                 Abwärme Rechenzentrum
               </b-card-title>
               <b-card-sub-title>
-                Die Abwärme des Leibnitz-Rechenzentrums in Garching wird noch nicht genutzt.
-                Noch nicht von uns angesprochen.
+                Die Abwärme des Leibnitz-Rechenzentrums in Garching soll sobald wie möglich genutzt werden. Dies konnten wir in Gesprächen mit dem
+                LRZ und dem Ministerium für Wissenschaft und Kunst erfahren. <br />
+                Potential etwa 12,5 GWh pro Jahr
               </b-card-sub-title>
             </b-card-body>
           </b-card>

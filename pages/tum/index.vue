@@ -126,6 +126,76 @@
 
 
 
+
+
+
+    <div style="margin-top:100px;" class="text-center">
+      <h3>Nützliche Links und Informationen</h3>
+      <div class="row mt-4">
+
+        <div class="col-md-4 mb-2">
+          <b-card
+            img-src="tum_information_cleanTechCampusGarching.png"
+            img-alt="Image"
+            img-top
+            tag="article"
+            class="mx-auto image-container"
+          >
+            <b-card-body>
+              <a href="https://www.epe.ed.tum.de/es/forschung/projekte/cleantechcampus/" target="_blank">
+                <b-card-title>
+                   CleanTechCampus Garching
+                </b-card-title>
+              </a>
+              <b-card-text>
+                Wie kann die Energieinfrastruktur des energieintensiven Campus Garching der TU München bedarfsgerecht aber auch klimafreundlich gestaltet werden? <br />
+                Dieser Frage ging das Projektteam der CleanTechCampus Garching-Studie nach. <br />
+                Hier wurden auch viele relevante Daten über den Ist-Zustand des Campus erhoben.
+              </b-card-text>
+              <b-card-text>
+                                  <p class="mt-4">
+                  <a href="https://www.epe.ed.tum.de/fileadmin/w00bzo/es/pictures/Projekte/CleanTechCampus/Schlussbericht_CleanTechCampus.pdf" target="_blank">
+                    Abschlussbericht lesen
+                  </a>
+                </p>
+              </b-card-text>
+            </b-card-body>
+          </b-card>
+        </div>
+        <div class="col-md-4 mb-2">
+          <b-card
+            img-src="tum_information_energiewendeAnDerTumArtikel.png"
+            img-alt="Image"
+            img-top
+            tag="article"
+            class="mx-auto image-container"
+          >
+            <b-card-body>
+              <a href="https://reisswolf.fsmb.de/?p=3020" target="_blank">
+                <b-card-title>
+                  Reisswolf berichtet
+                </b-card-title>
+              </a>
+              <b-card-text>
+                Ein aktueller Artikel im Reisswolf (Zeitschrift der Fachschaft Maschinenbau) berichtet aus unserer Sicht über die Energiewende an der TU München.
+              </b-card-text>
+              <b-card-text>
+                <p class="mt-4">
+                  <a href="https://reisswolf.fsmb.de/?p=3020" target="_blank">
+                    Reisswolf (Zeitschrift der Fachschaft Maschinenbau) Artikel lesen
+                  </a>
+                </p>
+              </b-card-text>
+            </b-card-body>
+          </b-card>
+        </div>
+
+      </div>
+    </div>
+
+
+
+
   </div>
 </template>
 <style scoped>

@@ -12,7 +12,8 @@
               </b-card-title>
               <b-card-sub-title>
                 28.000 qm zugesagt, Gesamtpotential größer als 100.000 qm aber
-                bestimmt verteilt auf sehr viele Dächer -> sehr aufwendig
+                verteilt auf  viele Dächer <br />
+                <a href="https://reisswolf.fsmb.de/?p=3020" target="_blanc">In diesem Artikel</a> lesen, weshalb es sich verzögert
               </b-card-sub-title>
             </b-card-body>
           </b-card>
@@ -24,7 +25,7 @@
                 Photovoltaik auf Parkplätzen
               </b-card-title>
               <b-card-sub-title>
-                Interesse vorgebracht, noch nicht ausführlich diskutiert.
+                Vorschlag vorgebracht beim Präsidenten Hofmann, Erste Konzepte wurden von der TUM erarbeitet
               </b-card-sub-title>
             </b-card-body>
           </b-card>
@@ -36,7 +37,7 @@
                 Photovoltaik auf Freiflächen
               </b-card-title>
               <b-card-sub-title>
-                Vorgeschlagen, noch nicht ausführlich diskutiert
+                Von Seiten des Gebäudemanagements vorgeschlagen, leider noch nicht ausführlich diskutiert
               </b-card-sub-title>
             </b-card-body>
           </b-card>
@@ -48,7 +49,7 @@
                 Photovoltaik an Fassaden
               </b-card-title>
               <b-card-sub-title>
-                Noch nicht diskutiert, gegebenenfalls vor allem für Neubauten relevant
+                Vorschlag vorgebracht beim Präsidenten Hofmann, noch nicht diskutiert, gegebenenfalls vor allem für Neubauten relevant
               </b-card-sub-title>
             </b-card-body>
           </b-card>
@@ -60,7 +61,7 @@
                 Grüner Stromliefervertrag
               </b-card-title>
               <b-card-sub-title>
-                Noch nicht angesprochen
+                Vorschlag vorgebracht beim Präsidenten Hofmann
               </b-card-sub-title>
             </b-card-body>
           </b-card>
@@ -69,10 +70,11 @@
           <b-card class="mb-2">
             <b-card-body>
               <b-card-title>
-                Eventuell Windkraft
+                Windkraft
               </b-card-title>
               <b-card-sub-title>
-                Nicht diskutiert
+                Vorgeschlagen von Dr. Markus Söder, Windkraftanlagen in der Nähe des Campus Garching
+                auch im Interesse von Herrn Hofmann, noch keine konkreten Schritte unsererseits gestartet
               </b-card-sub-title>
             </b-card-body>
           </b-card>
