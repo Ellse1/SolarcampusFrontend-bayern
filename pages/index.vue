@@ -524,6 +524,35 @@
           </div>
           <div class="col-md-4 mb-2">
             <b-card
+              img-src="information_ipccReport2023.png"
+              img-alt="Image"
+              img-top
+              tag="article"
+              class="mx-auto image-container"
+            >
+              <b-card-body>
+                <a href="https://www.ipcc.ch/report/ar6/syr/" target="_blank">
+                  <b-card-title>
+                    IPCC synthesis report 2023
+                  </b-card-title>
+                </a>
+                <b-card-text>
+                  2023 veröffentlichte der IPCC den Synthesebericht zum 6. Sachstandsbericht. <br />
+                  Unter anderem wird darauf aufmerksam gemacht, dass ohne drastische Maßnahmen das Treibhausgasbudget
+                  für 1.5 Grad bereits 2030 beinahe aufgebraucht sein wird.
+                </b-card-text>
+                <b-card-text>
+                  <p class="mt-4">
+                    <a href="https://www.ipcc.ch/report/ar6/syr/downloads/report/IPCC_AR6_SYR_SPM.pdf" target="_blank">
+                      Summary for policy makers lesen
+                    </a>
+                  </p>
+                </b-card-text>
+              </b-card-body>
+            </b-card>
+          </div>
+          <div class="col-md-4 mb-2">
+            <b-card
               img-src="information_szBerichtet.png"
               img-alt="Image"
               img-top
