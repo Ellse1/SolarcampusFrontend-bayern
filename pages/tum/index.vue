@@ -135,6 +135,48 @@
 
         <div class="col-md-4 mb-2">
           <b-card
+            img-src="tum_information_sustainableFutureStrategy.png"
+            img-alt="Image"
+            img-top
+            tag="article"
+            class="mx-auto image-container"
+          >
+            <b-card-body>
+              <a href="https://mediatum.ub.tum.de/doc/1690440/1690440.pdf" target="_blank">
+                <b-card-title>
+                  TUM Nachhaltigkeits - und Klimaschutzstrategie
+                </b-card-title>
+              </a>
+              <b-card-text>
+                Die TU München will in Sachen Nachhaltigkeit und Klimaschutz durchstarten.
+                Ein neuer Vizepräsident für Sustainable Transformation wurde benannt, Studierende der
+                TUM sollen zur Sturmspitze des Wandels ausgebildet werden.
+                Bis 2028 will die TUM in Bezug auf den Energieverbrauch klimaneutral sein.
+              </b-card-text>
+              <b-card-text>
+                <p class="mt-4">
+                  <a href="https://www.tum.de/ueber-die-tum/ziele-und-werte/nachhaltigkeit/klimaschutz-an-der-tum" target="_blank">
+                    Klimaschutz an der TUM
+                  </a>
+                </p>
+                <p class="mt-4">
+                  <a href="https://www.tum.de/ueber-die-tum/ziele-und-werte/nachhaltigkeit" target="_blank">
+                    Nachhaltigkeit an der TUM
+                  </a>
+                </p>
+                <p class="mt-4">
+                  <a href="https://mediatum.ub.tum.de/doc/1690440/1690440.pdf" target="_blank">
+                   TUM Sustainable Futures Strategy lesen
+                  </a>
+                </p>
+              </b-card-text>
+            </b-card-body>
+          </b-card>
+        </div>
+
+
+        <div class="col-md-4 mb-2">
+          <b-card
             img-src="tum_information_cleanTechCampusGarching.png"
             img-alt="Image"
             img-top
@@ -153,7 +195,12 @@
                 Hier wurden auch viele relevante Daten über den Ist-Zustand des Campus erhoben.
               </b-card-text>
               <b-card-text>
-                                  <p class="mt-4">
+                <p class="mt-4">
+                  <a href="https://www.epe.ed.tum.de/es/forschung/projekte/cleantechcampus/" target="_blank">
+                    Link zur Projektseite
+                  </a>
+                </p>
+                <p class="mt-4">
                   <a href="https://www.epe.ed.tum.de/fileadmin/w00bzo/es/pictures/Projekte/CleanTechCampus/Schlussbericht_CleanTechCampus.pdf" target="_blank">
                     Abschlussbericht lesen
                   </a>

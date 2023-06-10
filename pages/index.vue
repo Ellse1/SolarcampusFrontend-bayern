@@ -501,7 +501,7 @@
               class="mx-auto image-container"
             >
               <b-card-body>
-                <a href="https://bayernplan-energie2040.de/" target="_blank">
+                <a href="https:///bayernplan-energie.ffe.de/" target="_blank">
                   <b-card-title>
                     Bayernplan Energie 2040
                   </b-card-title>
@@ -513,9 +513,14 @@
                   begleitet durch <b>vbw – Vereinigung der Bayerischen Wirtschaft e.V. & Prognos AG</b>
                 </b-card-text>
                 <b-card-text>
-                                    <p class="mt-4">
+                  <p class="mt-4">
                     <a href="https:///bayernplan-energie.ffe.de/" target="_blank">
-                      www.bayernplan-energie.ffe.de
+                      Link zur Webseite
+                    </a>
+                  </p>
+                  <p>
+                    <a href="https://bayernplan-energie.ffe.de/BayernplanEnergie2040_Zusammenfassung.pdf" target="_blank">
+                      Zusammenfassung lesen
                     </a>
                   </p>
                 </b-card-text>
@@ -539,10 +544,15 @@
                 <b-card-text>
                   2023 veröffentlichte der IPCC den Synthesebericht zum 6. Sachstandsbericht. <br />
                   Unter anderem wird darauf aufmerksam gemacht, dass ohne drastische Maßnahmen das Treibhausgasbudget
-                  für 1.5 Grad bereits 2030 beinahe aufgebraucht sein wird.
+                  für 1.5 Grad bereits 2031 restlos aufgebraucht sein wird.
                 </b-card-text>
                 <b-card-text>
                   <p class="mt-4">
+                    <a href="https://www.ipcc.ch/report/ar6/syr" target="_blank">
+                      Link zur Webseite
+                    </a>
+                  </p>
+                  <p>
                     <a href="https://www.ipcc.ch/report/ar6/syr/downloads/report/IPCC_AR6_SYR_SPM.pdf" target="_blank">
                       Summary for policy makers lesen
                     </a>

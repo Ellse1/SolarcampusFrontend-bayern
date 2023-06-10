@@ -96,7 +96,7 @@
       <!--<div class="text-center p-4" style="background-color: rgba(0, 0, 0, 0.05);">-->
       <div class="text-center text-dark p-4" style="background-color: #119be6">
         © 2023 Copyright:
-        <nuxt-link to="/" class="text-reset fw-bold" >Solarcampus-bayern.de</nuxt-link>
+        <nuxt-link to="/" class="text-reset fw-bold" >solarcampus-bayern.de</nuxt-link>
       </div>
       <!-- Copyright -->
     </footer>
