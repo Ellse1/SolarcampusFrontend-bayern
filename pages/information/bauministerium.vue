@@ -7,12 +7,12 @@
       </p>
       <p>
         Nach 2-jährigem Einsatz für mehr Photovoltaik auf staatlichen Gebäuden in Bayern gibt es Grund für vorsichtigen Optimismus, was den Einsatz von Photovoltaik auf staatlichen Gebäuden angeht.
-        Von einer Ausbaugeschwindigkeit die ein klimaneutrales Bayern 2040 ermöglicht, kann aber nicht die Rede sein, wie im <a href="https://bayernplan-energie.ffe.de/#start" target="_blanc">Bayernplan Energie 2040</a> genau beschrieben.
+        Von einer Ausbaugeschwindigkeit die ein klimaneutrales Bayern 2040 ermöglicht, kann aber nicht die Rede sein, wie im <a href="https://bayernplan-energie.ffe.de/#start" target="_blanc">Bayernplan Energie 2040</a> genau beschrieben wird.
         Das Bauministerium hat nach viel öffentlichem und politischem Druck, auch hinsichtlich der Energiekrise, etwas größere Anstrengungen angekündigt.
         So dürfen Universitäten und andere staatliche Einrichtungen nun unkomplizierter selbst in Photovoltaik investieren und entsprechende Dächer nutzen, wenn sie dies wollen.
         Außerdem ging Anfang 2023 ein Schreiben an entsprechende Einrichtungen, in dem diese aufgefordert wurden, geeignete Dächer, das Photovoltaikpotenzial und abgeschätzte
         Kosten für die Installation zu melden. Das Bauministerium will dann entscheiden, ob die Finanzierung und Installation vom Freistaat Bayern realisiert wird.
-        Dies ist ein erster Schritt in die richtige Richtung, allerdings ist es noch nicht klar, ob und wie viele Dächer damit tatsächlich mit Photovoltaik belegt werden können.
+        Dies ist ein erster Schritt in die richtige Richtung, allerdings ist es noch nicht klar, wie viele Dächer damit tatsächlich mit Photovoltaik belegt werden können.
         Eine große Hürde, welche Universitäten uns rückmelden, ist weiterhin der Gebäudebestand, welcher Photovoltaikanlagen teils nicht zulässt.
         Dies ist auch hinsichtlich der Wärmetransformation zunehmend ein Problem. Der schlechte Gebäudebestand muss dringend energetisch ertüchtigt werden, damit die
         Wärmeversorgung der Gebäude mit erneuerbarer Energie möglich wird.
