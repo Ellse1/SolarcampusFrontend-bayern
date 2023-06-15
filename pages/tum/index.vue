@@ -62,7 +62,7 @@
           <b-card class="mb-2 sektor-card">
             <b-card-body>
               <b-card-sub-title>
-                Laut Sustainable Future Strategy der TUM klimaneutral bis 2028
+                Laut Sustainable Futures Strategy der TUM klimaneutral bis 2028
               </b-card-sub-title>
               <nuxt-link to="/tum/waerme">
                 <b-button pill variant="outline" class="mt-3 sektor-button" size="lg">
@@ -186,7 +186,7 @@
             <b-card-body>
               <a href="https://www.epe.ed.tum.de/es/forschung/projekte/cleantechcampus/" target="_blank">
                 <b-card-title>
-                   CleanTechCampus Garching
+                   CleanTechCampus Garching Studie
                 </b-card-title>
               </a>
               <b-card-text>
@@ -225,11 +225,49 @@
               </a>
               <b-card-text>
                 Ein aktueller Artikel im Reisswolf (Zeitschrift der Fachschaft Maschinenbau) berichtet aus unserer Sicht über die Energiewende an der TU München.
+                Obwohl wir uns seit mehr als 2 Jahren für Photovoltaik einsetzen kann mit der vorgelegten Geschwindigkeit die Energiewende nicht 1.5 Grad kompatibel umgesetzt werden.
+                Es braucht personelle und finanzielle unterstützung, um die Energiewende an unserer TUM voranzutreiben.
               </b-card-text>
               <b-card-text>
                 <p class="mt-4">
                   <a href="https://reisswolf.fsmb.de/?p=3020" target="_blank">
                     Reisswolf (Zeitschrift der Fachschaft Maschinenbau) Artikel lesen
+                  </a>
+                </p>
+              </b-card-text>
+            </b-card-body>
+          </b-card>
+        </div>
+        <div class="col-md-4 mb-2">
+          <b-card
+            img-src="tum_information_paneldiscussion.jpg"
+            img-alt="Image"
+            img-top
+            tag="article"
+            class="mx-auto image-container"
+          >
+            <b-card-body>
+              <a href="https://www.tum.de/aktuelles/alle-meldungen/pressemitteilungen/details/wege-zur-nachhaltigkeit" target="_blank">
+                <b-card-title>
+                  Öffentliche Podiumsdiskussion
+                </b-card-title>
+              </a>
+              <b-card-text>
+                Nachhaltigkeit und Klimaschutz müssen deutlich stärker in der Lehre verankert werden. Außerdem ist der völlige Verzicht auf fossile Brennstoffe bis 2028 beinahe nicht zu schaffen.
+                Obwohl in der TUM Sustainable Futures Strategy steht, man wolle Klimaneutralität in Bezug auf den
+                Energieverbrauch bis 2028 realisieren.
+                Das sind die zentralen Ergebnisse der Podiumsdiskussion, in welcher sich
+                der TUM Vizekanzler unseren kritischen Fragen stellte.
+              </b-card-text>
+              <b-card-text>
+                <p class="mt-4">
+                  <a href="https://www.tum.de/aktuelles/alle-meldungen/pressemitteilungen/details/klimawandel-diskussion-zur-rolle-und-verantwortung-der-universitaeten" target="_blank">
+                    Ankündigung der TUM lesen
+                  </a>
+                </p>
+                <p class="mt-4">
+                  <a href="https://www.tum.de/aktuelles/alle-meldungen/pressemitteilungen/details/wege-zur-nachhaltigkeit" target="_blank">
+                    Resume der TUM lesen
                   </a>
                 </p>
               </b-card-text>
