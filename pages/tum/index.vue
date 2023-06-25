@@ -2,7 +2,7 @@
   <div class="container">
     <div class="mt-5 text-center">
       <h3 style="font-family: Comfortaa;">Wie wir unsere TUM unterstützen</h3>
-
+      <!---->
       <p class="mt-5">
         Wir stehen in regelmäßigem Kontakt zur Gebäudeverwaltung der TU München.
         Es ist uns eine Ehre, mit den Personen vor Ort konstruktiv zusammen arbeiten zu dürfen,
