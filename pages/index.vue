@@ -154,6 +154,7 @@
 
 
         <div class="row mt-4">
+          <!--
           <div class="col-sm-6 col-md-4 col-lg-3 text-center mb-2">
               <b-card
                 title="Sina Schuhmacher"
@@ -174,7 +175,7 @@
                   Referat für Umwelt<br> Ludwigs Maximilians Universität<br>München
                 </b-card-text>
               </b-card>
-          </div>
+          </div>-->
           <div class="col-sm-6 col-md-4 col-lg-3 text-center mb-2">
               <b-card
                 title="Lennart Trentmann"
