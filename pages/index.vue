@@ -18,15 +18,6 @@
           </span>
         </p>
 
-
-
-        <!--
-        <p>Alle Information bezüglich des Fortschritts an den jeweiligen Universitäten und allgeineme Informationen, welche bei
-          solch einem Projekt hilfreich sein können, beschreiben wir in folgendem Notion Dokument:
-          <a target="_blank" href="https://spiky-credit-285.notion.site/Solarcampus-S-ddeutschland-e630a2deb03d46eeb75532a52923a164">Notion Dokument</a>
-        </p>
-        -->
-
       </div>
 
 
@@ -97,56 +88,6 @@
       </div>
 
 
-
-      <!--
-      <div class="mt-5" style="">
-        <h3 class="mx-auto text-center">Neues von uns</h3>
-
-        <div class="row mt-4">
-          <div class="col">
-            <div class="card">
-              <div class="card-body">
-                <b-card-title>Wir in der Süddeutschen Zeitung</b-card-title>
-                <p class="card-text">
-                  Am 22.11.22 berichtet die Süddeutsche Zeitung über uns. Sowohl unser Engagement
-                  an unserer Universität, der TU München, als auch die Konversation mit Herrn Staatsminister
-                  Bernreiter wird dargelegt.
-                </p>
-                <a target="_blanc" href="https://www.sueddeutsche.de/muenchen/muenchen-tum-universitaet-photovoltaik-solardach-solarcampus-bayern-1.5701042" class="">SZ Artikel lesen</a>
-              </div>
-            </div>
-          </div>
-          <div class="col">
-            <div class="card">
-              <div class="card-body">
-                <b-card-title>Staatsminister Bernreiters Antwort auf unsere Anfrage</b-card-title>
-                <p class="card-text">
-                  Mit großem Respekt nehmen wir die Antwort von Herrn Bernreiter zur Kenntniss.
-                  Inhaltlich fordern wir mehr Transparenz und Geschwindigkeit beim PV-Ausbau auf staatlichen Gebäuden.
-                  Lesen Sie hier unsere Anfrage und die Anwort von Herrn Bauminister Bernreiter.
-                </p>
-                <nuxt-link to="/information/konversation-bernreiter">Konversation lesen</nuxt-link>
-              </div>
-            </div>
-          </div>
-          <div class="col">
-            <div class="card">
-              <div class="card-body">
-                <b-card-title>Wir in der SZ junge Leute</b-card-title>
-                <p class="card-text">
-                  Am 13.06.2022 berichtet die SZ junge Leute Redaktion über unser Engagement für Bayern an der TU München.
-                  Wir setzen uns seit 2021 an der TUM für einen schnelleren Ausbau der erneuerbaren Energie ein.
-                  Den Artikel finden Sie hier.
-                </p>
-                <a target="_blanc" href="https://www.sueddeutsche.de/muenchen/muenchen-neuland-made4all-solarcampus-sueddeutschland-1.5602257" class="">SZ junge Leute Artikel lesen</a>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-      -->
-
-
       <div class="mt-5">
         <h3 class="text-center mx-auto">
           Einige unseres Teams
@@ -154,28 +95,7 @@
 
 
         <div class="row mt-4">
-          <!--
-          <div class="col-sm-6 col-md-4 col-lg-3 text-center mb-2">
-              <b-card
-                title="Sina Schuhmacher"
-                img-src="/person_SinaSchuhmacher.jpg"
-                img-alt="Image"
-                img-top
-                tag="article"
-                style="max-width: 15rem;"
-                class="mx-auto image-container"
-              >
-                <div class="middle text-center">
-                  <div class="image-text mx-auto">
-                    schumacher.sina@campus.lmu.de
-                  </div>
-                </div>
 
-                <b-card-text>
-                  Referat für Umwelt<br> Ludwigs Maximilians Universität<br>München
-                </b-card-text>
-              </b-card>
-          </div>-->
           <div class="col-sm-6 col-md-4 col-lg-3 text-center mb-2">
               <b-card
                 title="Lennart Trentmann"
@@ -241,76 +161,6 @@
                 </b-card-text>
               </b-card>
           </div>
-          <!--
-          <div class="col-sm-6 col-md-4 col-lg-3 text-center mb-2">
-              <b-card
-                title="Lena Auer"
-                img-src="person_LenaAuer.jpg"
-                img-alt="Image"
-                img-top
-                tag="article"
-                style="max-width: 15rem;"
-                class="mx-auto image-container"
-              >
-                <div class="middle text-center">
-                  <div class="image-text mx-auto">
-                    auer5@hm.edu
-                  </div>
-                </div>
-
-                <b-card-text>
-                  Leitung des Referat für Nachhaltige Entwicklung <br>Hochschule München
-                </b-card-text>
-              </b-card>
-          </div>-->
-          <!--
-          <div class="col-sm-6 col-md-4 col-lg-3 text-center mb-2">
-              <b-card
-                title="Nina Nhi Nguyen"
-                img-src="person_NinaNhi.jpg"
-                img-alt="Image"
-                img-top
-                tag="article"
-                style="max-width: 15rem;"
-                class="mx-auto image-container"
-              >
-                <div class="middle text-center">
-                  <div class="image-text mx-auto">
-                    t.nguyen@hm.edu
-                  </div>
-                </div>
-
-                <b-card-text>
-                  Referat für Nachhaltige Entwicklung
-                  <br>
-                  Hochschule München
-                </b-card-text>
-              </b-card>
-          </div>-->
-          <!--
-          <div class="col-sm-6 col-md-4 col-lg-3 text-center mb-2">
-              <b-card
-                title="Patrizia Pfab"
-                img-src="person_PatriziaPfab.jpeg"
-                img-alt="Image"
-                img-top
-                tag="article"
-                style="max-width: 15rem;"
-                class="mx-auto image-container"
-              >
-                <div class="middle text-center">
-                  <div class="image-text mx-auto">
-                    ppfab@hm.edu
-                  </div>
-                </div>
-
-                <b-card-text>
-                  Leitung des Referat für Nachhaltige Entwicklung
-                  <br>
-                  Hochschule München
-                </b-card-text>
-              </b-card>
-          </div>-->
           <div class="col-sm-6 col-md-4 col-lg-3 text-center mb-2">
               <b-card
                 title="Elias Sailer"
@@ -334,28 +184,6 @@
               </b-card>
 
           </div>
-          <!--
-          <div class="col-sm-6 col-md-4 col-lg-3 text-center mb-2">
-              <b-card
-                title="Lisa Thuro"
-                img-src="personPlaceholder.jpg"
-                img-alt="Image"
-                img-top
-                tag="article"
-                style="max-width: 15rem;"
-                class=" mx-auto image-container"
-              >
-                <div class="middle text-center">
-                  <div class="image-text mx-auto">
-                    elias.singer@online.de
-                  </div>
-                </div>
-
-                <b-card-text>
-                  Referat für Umwelt<br> Technische Universität München
-                </b-card-text>
-              </b-card>
-          </div>-->
           <div class="col-sm-6 col-md-4 col-lg-3 text-center mb-2">
               <b-card
                 title="Jakob Bergsteiner"
@@ -462,29 +290,6 @@
                 </b-card-text>
               </b-card>
           </div>
-
-          <!--
-          <div class="col-sm-6 col-md-4 col-lg-3 text-center mb-2">
-              <b-card
-                title="Judith Schröder"
-                img-src="personPlaceholder.jpg"
-                img-alt="Image"
-                img-top
-                tag="article"
-                style="max-width: 15rem;"
-                class=" mx-auto image-container"
-              >
-                <div class="middle text-center">
-                  <div class="image-text mx-auto">
-                    elias.singer@online.de
-                  </div>
-                </div>
-
-                <b-card-text>
-                  Technische Universität München
-                </b-card-text>
-              </b-card>
-          </div>-->
 
         </div>
       </div>
@@ -608,11 +413,6 @@
   </div>
 </template>
 
-<script lang="ts">
-//import Vue from 'vue'
-
-//export default Vue.extend({})
-</script>
 
 
 <style scoped>
